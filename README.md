@@ -1,4 +1,4 @@
-searchAgent
+Search in Pacman
 ===========
 
 This is my CS188 Project 1.
